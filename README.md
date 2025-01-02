@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moatazmhamdi&label=Profile%20views&color=0e75b6&style=flat" alt="moatazmhamdi" /> </p>
 
-- 🌱 I’m currently learning **React,VueJS, SpringBoot andNodeJS**
+- 🌱 I’m currently learning **React,VueJS, SpringBoot, NodeJS, .Net Core , Angular**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-app-fjen.onrender.com/](https://my-portfolio-app-fjen.onrender.com/)
 
