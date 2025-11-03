@@ -1,21 +1,20 @@
-<img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" alt="top" /> 
 
 
 <h1 align="center">Hi 👋, I'm Moataz</h1>
-<h3 align="center">A Software Engineering Student specialized in Web & Mobile Developement</h3>
+<h3 align="center">A Software Engineering  specialized in Web & Mobile Developement</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moatazmhamdi&label=Profile%20views&color=0e75b6&style=flat" alt="moatazmhamdi" /> </p>
 
-- 🌱 I’m currently learning **React,VueJS, SpringBoot, NodeJS, .Net Core , Angular**
+- 🌱 I’m currently learning **Next.js, Nest.js, NodeJS, Flutter, React Native**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-app-fjen.onrender.com/](https://my-portfolio-app-fjen.onrender.com/)
+- 👨‍💻 All of my projects are available at [[https://my-portfolio-app-fjen.onrender.com/](https://my-portfolio-app-fjen.onrender.com/)](https://moataz-mhamdi-portfolio-r4t6.onrender.com/)
 
-- 📫 How to reach me **Moataz.Mhamdi@esprit.tn**
+- 📫 How to reach me **moatazmhamdi25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/moataz-mhamdi-ba3211208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moataz-mhamdi-ba3211208/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/moataz-mhamdi/](https://www.linkedin.com/in/moatazmhamdi/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moataz-mhamdi-ba3211208/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
